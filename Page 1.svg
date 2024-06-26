@@ -1,5 +1,5 @@
 <svg width="520" height="1103" viewBox="0 0 520 1103" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-okviz-autofetch="true">
-<g id="Page 1">
+<rect id="page photo reflex 1" x="0.5" y="0.5" width="519" height="1102" fill="url(#pattern0_14_19)" stroke="black"/>
 <rect id="Image 1" x="33" y="135" width="453" height="82" fill="black" fill-opacity="0.5"/>
 <rect id="Image 2" x="59" y="240" width="71" height="81" fill="black" fill-opacity="0.5"/>
 <rect id="Image 3" x="165" y="240" width="288" height="81" fill="black" fill-opacity="0.5"/>
@@ -26,7 +26,6 @@
 <rect id="Header 5" x="322" y="60" width="62" height="14" fill="black" fill-opacity="0.5"/>
 <rect id="Header 6" x="384" y="60" width="60" height="14" fill="black" fill-opacity="0.5"/>
 <circle id="Home logo" cx="36" cy="53" r="18" fill="black" fill-opacity="0.5"/>
-</g>
 <defs>
 <pattern id="pattern0_14_19" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_14_19" transform="scale(0.00192308 0.000906618)"/>

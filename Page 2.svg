@@ -1,5 +1,5 @@
 <svg width="500" height="1103" viewBox="0 0 500 1103" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-okviz-autofetch="true">
-<g id="Page 2">
+<rect id="Background" x="0.5" y="0.5" width="499" height="1102" fill="url(#pattern0_26_304)" stroke="black"/>
 <rect id="Top image" y="87" width="500" height="89" fill="black" fill-opacity="0.5"/>
 <rect id="Home" x="68" y="58" width="60" height="14" fill="black" fill-opacity="0.5"/>
 <rect id="Page 1" x="128" y="58" width="61" height="14" fill="black" fill-opacity="0.5"/>
@@ -19,7 +19,7 @@
 <rect id="Article 8" x="372" y="654" width="122" height="37" fill="black" fill-opacity="0.5"/>
 <rect id="Article 9" x="372" y="698" width="122" height="37" fill="black" fill-opacity="0.5"/>
 <rect id="Article 10" x="372" y="741" width="122" height="37" fill="black" fill-opacity="0.5"/>
-<rect id="Blog 1_2" x="31" y="363" width="138" height="82" fill="black" fill-opacity="0.5"/>
+<rect id="Blog 1" x="31" y="363" width="138" height="82" fill="black" fill-opacity="0.5"/>
 <rect id="Blog 2" x="185" y="363" width="138" height="82" fill="black" fill-opacity="0.5"/>
 <rect id="Blog 3" x="185" y="466" width="138" height="82" fill="black" fill-opacity="0.5"/>
 <rect id="Blog 4" x="185" y="568" width="138" height="82" fill="black" fill-opacity="0.5"/>
@@ -30,7 +30,6 @@
 <ellipse id="Bottom button 1" cx="160" cy="869" rx="21" ry="20" fill="black" fill-opacity="0.5"/>
 <ellipse id="Bottom button 2" cx="250" cy="869" rx="21" ry="20" fill="black" fill-opacity="0.5"/>
 <ellipse id="Bottom button 3" cx="340" cy="869" rx="21" ry="20" fill="black" fill-opacity="0.5"/>
-</g>
 <defs>
 <pattern id="pattern0_26_304" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_26_304" transform="matrix(0.00300136 0 0 0.00136054 -0.00422857 0)"/>
